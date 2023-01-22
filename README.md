@@ -6,4 +6,5 @@ i originally wasnt gonna leak it until i found a webhook that logs all servers t
 ###### AdminX (me) - Deobfuscating and decompiling it
 
 # Ectasy
-if you actually want a good backdoor that doesnt log your servers then join https://discord.gg/monkeys or https://ectasy
+if you actually want a good backdoor that doesnt log your servers then join https://discord.gg/monkeys or https://ectasy.club
+
