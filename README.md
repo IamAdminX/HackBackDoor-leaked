@@ -1,4 +1,4 @@
-### If you still think lllllllllllllIlllIllIIIllIIIllll is an error in the decompile/deobuscatingits not you retarded piece of sh** and if you ask me again i will block you 
+### If you still think lllllllllllllIlllIllIIIllIIIllll is an error in the decompile/deobuscating its not you retarded piece of sh** and if you ask me again i will block you 
 
 
 # Hackbackdoor
